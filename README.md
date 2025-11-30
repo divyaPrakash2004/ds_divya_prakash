@@ -72,7 +72,7 @@ Three distinct trader profiles identified through clustering:
 #### 🟢 Cluster 0: The Break-Even Majority
 - Moderate activity across all metrics
 - Low to moderate PnL with ~50% win rate
-- Represents the average retail trader
+- Represents the average retail trade
 
 #### 🔵 Cluster 1: The High-Rolling Whales
 - Extremely high total PnL and high volatility
