@@ -28,7 +28,7 @@ Ensure both CSV files are in the project directory
 
 Open and run notebook_1.ipynb sequentially
 
-Review generated visualizations and cluster results
+Review generated visualizations and cluster results.
 
 ## 🛠️ Technical Implementation
 
